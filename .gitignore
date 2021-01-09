@@ -1,1 +1,4 @@
 # php.project.users
+
+/vendor/
+.idea/
